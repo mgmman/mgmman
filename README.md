@@ -5,13 +5,13 @@
 
 --- 
 <h3>Hard skills</h3>
-<p  style="margin: 25px; padding: 10px; background: rgb(135,205,222);
+<div  style="margin: 25px; padding: 10px; background: rgb(135,205,222);
 background: radial-gradient(circle, rgba(135,205,222,1) 0%, rgba(60,137,217,1) 16%, rgba(34,39,46,1) 100%); border-radius: 5%">
 <a style="margin: 5px" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
 <a style="margin: 5px" href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    <img src="https://github.com/mgmman/mgmman/raw/main/dotNet (2).png" alt="dotnet" width="35" height="40"/> 
 </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -27,12 +27,12 @@ background: radial-gradient(circle, rgba(135,205,222,1) 0%, rgba(60,137,217,1) 1
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a style="margin: 5px" href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="20"/> </a> 
+    <img style="margin-bottom: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="20"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a style="margin: 5px" href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
+<a style="border-radius: 50%" href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img style="border-radius: 50%" src="https://github.com/mgmman/mgmman/raw/main/Unity.png" alt="unity" width="40" height="40" /> </a> 
+</div>
 
 ---
 <h3 align="left">Связаться со мной:</h3>
